@@ -1,8 +1,5 @@
 <div align="center">   
-  <br />   
-  <a href="https://youtu.be/wm5gMKuwSYk?feature=shared" target="_blank">     
-    <img src="https://github.com/yourusername/yourproject/assets/yourimageid" alt="Project Banner">     
-  </a>   
+  <br />    
   <br />    
   <div>     
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000" alt="Next.js" />     
@@ -10,7 +7,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />   
   </div>    
 
-  <h3 align="center">Next.js 14 AI Prompt Sharing Application</h3>   
+  <h3 align="center"> AI Prompt Sharing </h3>   
 
   <div align="center">   
     Built this project step-by-step as a full-stack application to explore and showcase Next.js features, alongside an AI prompt-sharing CRUD system with MongoDB. 
